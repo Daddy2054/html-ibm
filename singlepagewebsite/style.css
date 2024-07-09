@@ -176,6 +176,8 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: center;
+
+
 }
 
 /* Projects */
@@ -261,7 +263,8 @@ h6 {
 
 .popup {
   width:400px;
-  background-color: #e8bcf0;
+  /* background-color: #e8bcf0; */
+  background-color:  #c7a245dd;
   border-radius: 3mm;
   top: 50%;
   left:50%;
